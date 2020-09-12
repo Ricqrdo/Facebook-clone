@@ -1,68 +1,69 @@
+# Facebook Clone 🤳
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### You can use it [here](https://facebook-clone-382ad.web.app/) 🔗
 
-In the project directory, you can run:
+Make sure to have a clean website, thanks!
 
-### `npm start`
+### Getting Started 🚀
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!-- prettier-ignore -->
+  Feel free to modify cloning the repository
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<!-- prettier-ignore -->
+  ` git clone https://github.com/Ricqrdo/Facebook-clone `
 
-### `npm test`
+<!-- prettier-ignore -->
+  Then install dependencies with
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- prettier-ignore -->
+  ` npm install `
 
-### `npm run build`
+<!-- prettier-ignore -->
+### Scripts for development and deployment ⚙️
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- prettier-ignore -->
+  To start a development server use
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<!-- prettier-ignore -->
+  ` npm start `
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- prettier-ignore -->
+  And if you want to get a minified version ready to upload use
 
-### `npm run eject`
+<!-- prettier-ignore -->
+  ` npm run build `
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- prettier-ignore -->
+### This project was made using 🛠️
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- prettier-ignore -->
+  <a href='https://github.com/facebook/react'><img src='./src/images/react-brand.png' width='110px'></a>
+  <a href='https://github.com/mui-org/material-ui'><img src='https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_material_design.svg' width='110px'></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- prettier-ignore -->
+### Made by ✒️
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<!-- prettier-ignore -->
+  ### - Ricqrdo
 
-## Learn More
+<!-- prettier-ignore -->
+  <a href='https://github.com/Ricqrdo'>Github <img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' width='25px'></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- prettier-ignore -->
+  ---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- prettier-ignore -->
+  <a href='https://www.linkedin.com/in/ricqrdo/'><img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' width='80px'></a>
 
-### Code Splitting
+<!-- prettier-ignore -->
+  ---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+<!-- prettier-ignore -->
+  <a href='https://twitter.com/Ricqrdo__'><img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Twitter_logo.svg' width='80px'></a>
 
-### Analyzing the Bundle Size
+## License 📜
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<!-- prettier-ignore -->
+  This project is [MIT licensed](https://github.com/facebook/react/blob/master/LICENSE)
